@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Chao Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsuchaochun&count_private=true&theme=dark&show_icons=true)](README.md)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsuchaochun&layout=compact&theme=dark&hide=Jupyter_Notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsuchaochun&layout=compact&theme=dark&hide=Jupyter_Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
