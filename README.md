@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Chao Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsuchaochun&theme=dark&show_icons=true)](README.md)
-<!-- 
+[![Chao Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsuchaochun&count_private=true&theme=dark&show_icons=true)](README.md)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsuchaochun&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
